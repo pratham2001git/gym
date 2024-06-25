@@ -1,0 +1,29 @@
+body{
+    background-image:url(gymimage1.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+     
+}
+h1{
+    color: aqua;
+    text-align:center;
+}
+nav{
+    text-align: center;
+}
+a{
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+form{
+    color: azure;
+    font-size: 130%;
+
+}
+input{
+    margin-top: 1%;
+}
+label{
+    margin-left: 1%;
+}
